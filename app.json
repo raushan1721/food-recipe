@@ -1,0 +1,16 @@
+{
+   "expo": {
+    "name": "food recipe",
+    "icon": "./assets/icons/pasta.png",
+    "version": "1.0.0",
+    "slug": "food-recipe",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.foodrecipe",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.yourcompany.foodrecipe",
+      "versionCode": 1
+    }
+   }
+ }
